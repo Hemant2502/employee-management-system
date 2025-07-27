@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": "d0e6",
+      "name": "Hemant Dattatray Daphal",
+      "email": "hemantdaphal@gmail.com",
+      "password": "123",
+      "department": "HR"
+    },
+    {
+      "id": "de44",
+      "name": "prasad",
+      "email": "p@gmail.com",
+      "password": "123",
+      "department": "Admin"
+    }
+  ]
+}
